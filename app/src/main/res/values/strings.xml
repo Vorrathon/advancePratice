@@ -12,6 +12,8 @@
     <string name="service_txt">บริการ</string>
     <string name="setting_txt">ตั้งค่า</string>
     <string name="exitapp_txt">ออกจากระบบ</string>
+    <string name="name_txt">Vorrathon Kedpratoom</string>
+    <string name="email_txt">alonemanz@hotmail.com</string>
 
 
 </resources>
