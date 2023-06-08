@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">advancePractice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_txt">หน้าแรก</string>
+    <string name="product_txt">สินค้า</string>
+    <string name="annouce_txt">เพิ่มประกาศ</string>
+    <string name="notification_txt">แจ้งเตือน</string>
+    <string name="accout_txt">โปรไฟล์</string>
+
+    <string name="about_txt">เกี่ยวกับ</string>
+    <string name="service_txt">บริการ</string>
+    <string name="setting_txt">ตั้งค่า</string>
+    <string name="exitapp_txt">ออกจากระบบ</string>
+
+
+</resources>

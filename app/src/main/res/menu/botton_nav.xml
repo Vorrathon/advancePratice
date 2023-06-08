@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item
+     android:id="@+id/homeFragmnet"
+     android:icon="@drawable/ic_home"
+     android:title="@string/home_txt">
+ </item>
+    <item
+        android:id="@+id/productFragmnet"
+        android:icon="@drawable/ic_store"
+        android:title="@string/product_txt" />
+    <item
+        android:id="@+id/addProductFragment"
+        android:icon="@drawable/ic_add"
+        android:title="@string/annouce_txt" />
+
+    <item
+        android:id="@+id/notificationFragment"
+        android:icon="@drawable/ic_notifications"
+        android:title="@string/notification_txt" />
+
+    <item
+        android:id="@+id/accountFragment"
+        android:icon="@drawable/ic_account"
+        android:title="@string/accout_txt" />
+
+</menu>
